@@ -13,3 +13,12 @@ Players take turns placing disks on the board with their assigned color facing u
 
 # Language
 Made with C.
+
+# Screenshots
+<p align="center">
+   <img src="https://github.com/MonicaHillman/othello/blob/master/assets/screen1.png" alt="Person" width="600"/>   
+</p>
+<p align="center">
+   <img src="https://github.com/MonicaHillman/othello/blob/master/assets/screen2.png" alt="Person" width="400"/>   
+</p>
+
